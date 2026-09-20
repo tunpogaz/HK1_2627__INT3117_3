@@ -1,0 +1,17 @@
+-1 14.5 Invalid
+0 14.5 Ve tre em
+1 14.5 Ve tre em
+11 14.5 Ve tre em
+12 14.5 Ve tre em
+13 14.5 Ve tieu chuan ban ngay
+119 14.5 Ve tieu chuan ban ngay
+120 14.5 Ve tieu chuan ban ngay
+121 14.5 Invalid
+25 -0.1 Invalid
+25 0.0 Ve tieu chuan ban ngay
+25 0.1 Ve tieu chuan ban ngay
+25 16.9 Ve tieu chuan ban ngay
+25 17.0 Ve tieu chuan ban ngay
+25 17.1 Ve tieu chuan ban dem
+25 23.9 Ve tieu chuan ban dem
+25 24.0 Invalid
