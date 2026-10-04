@@ -1,0 +1,10 @@
+DT2_1 R1a 2450.0 3.0 1000 Invalid
+DT2_2 R1b 10.0 550.0 1000 Invalid
+DT2_3 R1c 10.0 3.0 -10 Invalid
+DT2_4 R2 8.0 2.5 1500 Freeship
+DT2_5 R3 35.0 2.5 1500 Standard Fee
+DT2_6 R4 8.0 12.0 1500 Standard Fee
+DT2_7 R5 8.0 2.5 350 Standard Fee
+DT2_8 R6 80.0 2.5 1500 Surcharge Fee
+DT2_9 R7 8.0 35.0 1500 Surcharge Fee
+DT2_10 R8 8.0 2.5 100 Surcharge Fee

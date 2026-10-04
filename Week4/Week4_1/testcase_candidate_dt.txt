@@ -1,0 +1,10 @@
+DT1_1 R1a 45 90.0 85.0 Invalid
+DT1_2 R1b 8 -5.0 85.0 Invalid
+DT1_3 R1c 8 90.0 105.0 Invalid
+DT1_4 R2 10 92.0 88.0 Senior
+DT1_5 R3 3 90.0 85.0 Mid-level
+DT1_6 R4 8 75.0 85.0 Mid-level
+DT1_7 R5 8 90.0 70.0 Mid-level
+DT1_8 R6 1 90.0 85.0 Junior
+DT1_9 R7 8 50.0 85.0 Junior
+DT1_10 R8 8 90.0 52.0 Junior
