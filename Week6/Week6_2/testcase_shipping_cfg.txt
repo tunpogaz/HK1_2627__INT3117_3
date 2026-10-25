@@ -1,0 +1,13 @@
+TC2_01 Path01 -5.0 3.0 1000 Invalid
+TC2_02 Path02 2500.0 3.0 1000 Invalid
+TC2_03 Path03 10.0 -2.0 1000 Invalid
+TC2_04 Path04 10.0 550.0 1000 Invalid
+TC2_05 Path05 10.0 3.0 -50 Invalid
+TC2_06 Path06 10.0 3.0 150000 Invalid
+TC2_07 Path07 8.0 2.5 1500 Freeship
+TC2_08 Path08 35.0 2.5 1500 Standard Fee
+TC2_09 Path09 8.0 12.0 1500 Standard Fee
+TC2_10 Path10 8.0 2.5 350 Standard Fee
+TC2_11 Path11 80.0 2.5 1500 Surcharge Fee
+TC2_12 Path12 8.0 35.0 1500 Surcharge Fee
+TC2_13 Path13 8.0 2.5 100 Surcharge Fee

@@ -21,7 +21,19 @@ public class CreditCard {
         
         return "Standard";
     }
-
+//     // Code đúng
+//     public static String checkCreditCard(int c, double i) {
+//     if (c < 300 || c > 850 || i < 0.0 || i > 500.0) {
+//         return "Invalid";
+//     }
+//     if (c >= 700 && c <= 850 && i >= 20.0 && i <= 500.0) {
+//         return "Platinum";
+//     }
+//     if (c >= 600 && c <= 699 && i >= 10.0 && i <= 500.0) {
+//         return "Gold";
+//     }
+//     return "Standard";
+// }
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(new File("testcase_credit.txt"));
